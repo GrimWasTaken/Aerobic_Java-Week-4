@@ -1,4 +1,5 @@
-package DesignPattern;
+package Review;
+
 public class Animal {
 	
 	private String name;

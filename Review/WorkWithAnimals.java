@@ -1,4 +1,4 @@
-package DesignPattern;
+package Review;
 
 public class WorkWithAnimals{
 	
@@ -80,7 +80,7 @@ public class WorkWithAnimals{
 		
 		// Creating a Giraffe from an abstract class
 		
-		Animal giraffe = new Animal();
+		Giraffe giraffe = new Giraffe();
 		
 		giraffe.setName("Frank");
 		

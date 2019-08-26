@@ -1,4 +1,4 @@
-package DesignPattern;
+package Review;
 
 public class Cat extends Animal{
 	
